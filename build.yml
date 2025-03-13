@@ -23,4 +23,4 @@ jobs:
         uses: actions/upload-artifact@v3
         with:
           name: ArmorMixer-APK
-          path: bin/*.apk￼Enter
+          path: bin/*.apk
