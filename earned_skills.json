@@ -1,0 +1,86 @@
+{
+    "Health": {
+        "threshold": 20,
+        "earned_skill": "Health up L"
+    },
+    "Attack": {
+        "threshold": 20,
+        "earned_skill": "Attack up L"
+    },
+    "Torso": {
+        "threshold": 10,
+        "earned_skill": "Torso up"
+    },
+    "Whim": {
+        "threshold": 15,
+        "earned_skill": "Divine Whim"
+    },
+    "Tenderizer": {
+        "threshold": 10,
+        "earned_skill": "Weakness Exploit"
+    },
+    "Gathering": {
+        "threshold": 15,
+        "earned_skill": "Gathering +2"
+    },
+    "Spd Gather": {
+        "threshold": 10,
+        "earned_skill": "Fast pickup"
+    },
+    "Expert": {
+        "threshold": 20,
+        "earned_skill": "Affinity 30%"
+    },
+    "Poison": {
+        "threshold": 10,
+        "earned_skill": "Negate Poison"
+    },
+    "Hunger": {
+        "threshold": 15,
+        "earned_skill": "Negate Hunger"
+    },
+    "Combo Plus": {
+        "threshold": 10,
+        "earned_skill": "Shot mix"
+    },
+    "SpeedSetup": {
+        "threshold": 10,
+        "earned_skill": "Trap Master"
+    },
+    "Pyschic": {
+        "threshold": 15,
+        "earned_skill": "Auto Tracker"
+    },
+    "Ranger": {
+        "threshold": 10,
+        "earned_skill": "Outdorsman"
+    },
+    "KO": {
+        "threshold": 10,
+        "earned_skill": "Knockout King"
+    },
+    "Maestro": {
+        "threshold": 10,
+        "earned_skill": "Maestro Master"
+    },
+    "Sleep": {
+        "threshold": 10,
+        "earned_skill": "Negate sleep"
+    },
+    "Sharpener": {
+        "threshold": 10,
+        "earned_skill": "SpeedSharpening"
+    },
+    "Combo Rate": {
+        "threshold": 15,
+        "earned_skill": "Combo Rate ++"
+    },
+    "Protection": {
+        "threshold": 10,
+        "earned_skill": "Survive from fatal attack"
+    },
+    "Psychic": {
+        "threshold": 10,
+        "earned_skill": "Detect"
+    }
+}

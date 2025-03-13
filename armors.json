@@ -1,0 +1,276 @@
+[
+    {
+        "name": "Yukumo",
+        "type": "Head",
+        "skills": {
+            "Expert": 2,
+            "Protection": 2,
+            "Whim": 2
+        }
+    },
+    {
+        "name": "Yukumo",
+        "type": "Chest",
+        "skills": {
+            "Expert": 1,
+            "Protection": 2,
+            "Whim": 2
+        }
+    },
+    {
+        "name": "Yukumo",
+        "type": "Arms",
+        "skills": {
+            "Expert": 1,
+            "Protection": 2,
+            "Whim": 2
+        }
+    },
+    {
+        "name": "Yukumo",
+        "type": "Waist",
+        "skills": {
+            "Expert": 1,
+            "Protection": 2,
+            "Whim": 2
+        }
+    },
+    {
+        "name": "Yukumo",
+        "type": "Legs",
+        "skills": {
+            "Expert": 2,
+            "Protection": 2,
+            "Whim": 2
+        }
+    },
+    {
+        "name": "Leather",
+        "type": "Head",
+        "skills": {
+            "Gathering": 2,
+            "Spd Gather ": 2,
+            "Whim": 3
+        }
+    },
+    {
+        "name": "Leather",
+        "type": "Chest",
+        "skills": {
+            "Gather": 3,
+            "Spd Gather": 3,
+            "Whim": 2
+        }
+    },
+    {
+        "name": "Leather",
+        "type": "Arms",
+        "skills": {
+            "Gathering": 3,
+            "Spd Gather": 3,
+            "Whim ": 1
+        }
+    },
+    {
+        "name": "Leather",
+        "type": "Waist",
+        "skills": {
+            "Gathering": 4,
+            "Spd Gather": 2,
+            "Whim": 3
+        }
+    },
+    {
+        "name": "Leather",
+        "type": "Legs",
+        "skills": {
+            "Gathering": 4,
+            "Spd Gather": 2,
+            "Whim": 3
+        }
+    },
+    {
+        "name": "Bulfango Head",
+        "type": "Head",
+        "defense": 2,
+        "skills": {
+            "Hunger": 10
+        }
+    },
+    {
+        "name": "Gargwa Mask",
+        "type": "Head",
+        "defense": 2,
+        "skills": {
+            "Combo Plus": 10
+        }
+    },
+    {
+        "name": "Chainmail",
+        "type": "Head",
+        "defense": 2,
+        "skills": {
+            "Health": 2,
+            "Combo Rate": 4,
+            "Combo Plus ": 1
+        }
+    },
+    {
+        "name": "Hunters Helm",
+        "type": "Head",
+        "defense": 2,
+        "skills": {
+            "Poison": -2,
+            "Pyschic": 2,
+            "SpeedSetup": 3,
+            "Ranger": 2
+        }
+    },
+    {
+        "name": "Hunters Cap",
+        "type": "Head",
+        "defense": 2,
+        "skills": {
+            "Poison": -1,
+            "Pyschic": 4,
+            "SpeedSetup": 2,
+            "Ranger": 4
+        }
+    },
+    {
+        "name": "Bone Helm",
+        "type": "Head",
+        "defense": 2,
+        "skills": {
+            "Sleep": -3,
+            "Gathering": 3,
+            "Maestro": 1,
+            "KO": 2
+        }
+    },
+    {
+        "name": "Bone Cap",
+        "type": "Head",
+        "defense": 2,
+        "skills": {
+            "Sleep": -1,
+            "Gathering": 3,
+            "Maestro": 3,
+            "KO": 4
+        }
+    },
+    {
+        "name": "Alloy Helm",
+        "type": "Head",
+        "defense": 2,
+        "skills": {
+            "Expert": 1,
+            "Sharpener": 3,
+            "Wind Res": 2,
+            "Gathering": -3
+        }
+    },
+    {
+        "name": "Chainmail Vest",
+        "type": "Chest",
+        "defense": 2,
+        "skills": {
+            "Health": 3,
+            "Combo Rate": 3,
+            "Combo Plus": 3
+        }
+    },
+    {
+        "name": "Hunters Mail",
+        "type": "Chest",
+        "defense": 2,
+        "skills": {
+            "Poison": -1,
+            "Psychic": 2,
+            "SpeedSetup": 1,
+            "Ranger": 3
+        }
+    },
+    {
+        "name": "Hunters Vest",
+        "type": "Chest",
+        "defense": 2,
+        "skills": {
+            "Poison": -2,
+            "Psychic": 2,
+            "SpeedSetup": 1,
+            "Ranger": 2
+        }
+    },
+    {
+        "name": "Loc Lac",
+        "type": "Chest",
+        "defense": 2,
+        "skills": {
+            "Hunger": 5,
+            "Transportr": 2
+        }
+    },
+    {
+        "name": "Bone Mail",
+        "type": "Chest",
+        "defense": 2,
+        "skills": {
+            "Sleep": -1,
+            "Gathering": 2,
+            "Maestro": 1,
+            "K0 ": 3
+        }
+    },
+    {
+        "name": "Bone Vest",
+        "type": "Chest",
+        "defense": 2,
+        "skills": {
+            "Sleep": -2,
+            "Gathering": 2,
+            "Maestro": 2,
+            "K0": 1
+        }
+    },
+    {
+        "name": "Chainmail Gloves",
+        "type": "Arms",
+        "defense": 2,
+        "skills": {
+            "Health": 4,
+            "Combo Rate": 1,
+            "Combo Plus": 2
+        }
+    },
+    {
+        "name": "Hunters Vambraces",
+        "type": "Arms",
+        "defense": 2,
+        "skills": {
+            "Poison ": -2,
+            "Psychic": 3,
+            "SpeedSetup": 2,
+            "Ranger": 2
+        }
+    },
+    {
+        "name": "Hunters Guard",
+        "type": "Arms",
+        "defense": 2,
+        "skills": {
+            "Poison": -2,
+            "Psychic": 3,
+            "SpeedSetup": 2,
+            "Ranger": 2
+        }
+    },
+    {
+        "name": "Jaggi Mask",
+        "type": "Head",
+        "defense": 2,
+        "skills": {
+            "SpeedGather": 10
+        }
+    }
+]
